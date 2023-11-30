@@ -93,9 +93,6 @@
 * `npm install react-native-video --save`
 * `react-native link react-native-video --save`
 
-# 简书详解地址
-**[http://www.jianshu.com/p/1c5c36b3c19b](http://www.jianshu.com/p/1c5c36b3c19b)**
-
 # 查看IconFont功能请参考
 **[自定义IconFont库](http://www.jianshu.com/p/9f6db8e38852)**
 
